@@ -16,7 +16,7 @@
 [![Vercel](https://img.shields.io/badge/Deployed_on-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
 
 [![License](https://img.shields.io/badge/License-MIT-22c55e?style=flat-square)](LICENSE)
-[![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen?style=flat-square)](https://github.com/Yashika-28/anomaly_detection/pulls)
+[![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen?style=flat-square)](https://github.com/https://github.com/Pri-web30/FYP)
 [![WebSocket](https://img.shields.io/badge/Real--Time-WebSocket-8B5CF6?style=flat-square&logo=socketdotio&logoColor=white)]()
 [![Framer Motion](https://img.shields.io/badge/Animations-Framer_Motion-FF0055?style=flat-square&logo=framer&logoColor=white)](https://www.framer.com/motion/)
 
